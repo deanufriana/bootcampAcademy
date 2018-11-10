@@ -12,6 +12,9 @@
     <title>Jawaban Untuk Bootcamp</title>
 </head>
 
+<h6 class="m-3">Berikut Merupakan Jawaban Dari Soal Untuk Test Bootcamp. Mohon Maaf Jika Tidak Sesuai Harapan. Saya Berusaha Semaksimal Mungkin Untuk Memahami Soal Yang Ada. Terima Kasih :)</h6>
+<hr>
+
 <body>
     <div class="container-fluid mt-4">
         Soal Nomer 1
